@@ -1,4 +1,4 @@
-package com.lrn.obj;
+package com.lrn.java.obj;
 
 
 
